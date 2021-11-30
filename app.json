@@ -1,9 +1,9 @@
 {
-    "name": "WhatsAsenaModiefied",
+    "name": "KING ISUWA",
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/NxFN3q1/logo.jpg",
     "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/AI-VIKI/PublicBot",
+    "repository": "https://github.com/phaticusthicc/PublicBot",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
@@ -15,7 +15,7 @@
         "SUDO": {
             "description": "Leave as it is ! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxxx (Indian number +91)",
             "required": false,
-            "value": "919383400679"
+            "value": "94783800632,0"
         },
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => IN, Español => ES",
